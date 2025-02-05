@@ -1,0 +1,20 @@
+{
+  "name": "haxe_platformer",
+  "version": "1.0.0",
+  "description": "simple platformer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "haxe build.hxml"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k2spam/haxe_platformer.git"
+  },
+  "author": "Vladimir Khlebnikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k2spam/haxe_platformer/issues"
+  },
+  "homepage": "https://github.com/k2spam/haxe_platformer#readme"
+}
